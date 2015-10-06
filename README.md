@@ -1,2 +1,2 @@
 # Coil_Engine
-A pure CPU 3D enigine
+What is Coil? Coil is a 3D engine that only runs on the CPU.
